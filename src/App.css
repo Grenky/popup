@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+
+.App-header {
+  
+}
+.popup-btn {
+  width: 70px;
+  height: 40px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 20% 0px 0px 0px;
+}
+.window {
+  height: 200px;
+  width: 500px;
+  background-color: gray;
+  position: absolute;
+  left: 34%;
+  top: 65%;
+  visibility: hidden;
+}
+.show {
+  opacity: 1;
+  visibility: visible;
+}
